@@ -1,1 +1,1 @@
-hzrgfdzgrdgrzhtthghtxthx
+print('Ярослав')
